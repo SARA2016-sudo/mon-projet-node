@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SARA2016-sudo/mon-projet-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SARA2016-sudo/mon-projet-node/issues"
+  },
+  "homepage": "https://github.com/SARA2016-sudo/mon-projet-node#readme"
 }
